@@ -8,6 +8,7 @@
 * [fotor.com](https://www.fotor.com)
 * [artbreeder.com](https://www.artbreeder.com/)
 * [labs.openai.com/history](https://labs.openai.com/history)
+* [skybox.blockadelabs.com](https://skybox.blockadelabs.com/)
 
 <br>
 
