@@ -1,7 +1,7 @@
 # AI Workshop bookmarks
 
 ## GenAI
-* [getimg.ai](https://getimg.ai/)
+* [getimg.ai](https://getimg.ai/ref/Nm6jXuUJt)
 * [dezgo.com](https://dezgo.com/)
 * [starryai.com](https://starryai.com/)
 * [letsenhance.io/image-generation](https://letsenhance.io/image-generation)
