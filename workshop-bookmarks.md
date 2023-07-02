@@ -1,11 +1,13 @@
 # AI Workshop bookmarks
 
 ## GenAI
+* [clipdrop.co/stable-diffusion](https://clipdrop.co/stable-diffusion) => SDXL 0.9
+* [creator.nightcafe.studio/studio](https://creator.nightcafe.studio/studio) => SDXL 0.9
 * [getimg.ai](https://getimg.ai/ref/Nm6jXuUJt)
 * [dezgo.com](https://dezgo.com/)
 * [starryai.com](https://starryai.com/)
 * [letsenhance.io/image-generation](https://letsenhance.io/image-generation)
-* [creator.nightcafe.studio/studio](https://creator.nightcafe.studio/studio)
+
 * [fotor.com](https://www.fotor.com)
 * [artbreeder.com](https://www.artbreeder.com/)
 * [labs.openai.com/history](https://labs.openai.com/history)
